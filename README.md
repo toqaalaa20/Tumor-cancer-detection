@@ -1,1 +1,1 @@
-# Tumor-cancer-detection
+# Tumor-detection
